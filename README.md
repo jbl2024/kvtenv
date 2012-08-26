@@ -8,7 +8,6 @@ Instructions:
 wget https://raw.github.com/pypa/virtualenv/master/virtualenv.py
 ./vtenv.sh
 cd sample_project
-./manage.py syncdb
 ./manage.py celery worker
 ```
 
