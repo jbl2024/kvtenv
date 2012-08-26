@@ -10,7 +10,6 @@ eggs
 .project
 .pydevproject
 sample_project/log/*
-sample_project/manage.py
 sample_project/deploy/deploy.wsgi
 sample_project/local_settings.py
 sample_project/media/statics
