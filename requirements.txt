@@ -1,0 +1,7 @@
+# Put here all your python libs dependencies before vtenv.sh
+Django >= 1.3
+celery
+celery-with-redis
+django-celery
+kombu
+redis
