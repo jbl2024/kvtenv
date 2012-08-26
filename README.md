@@ -5,6 +5,7 @@ Sample project for https://github.com/celery/billiard/issues/10
 Instructions:
 
 ```sh
+wget https://raw.github.com/pypa/virtualenv/master/virtualenv.py
 ./vtenv.sh
 cd sample_project
 ./manage.py syncdb
